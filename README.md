@@ -55,7 +55,18 @@
 - [Deploying an asynchronous Python microservice with Sanic and Zeit Now](https://simonwillison.net/2017/Oct/14/async-python-sanic-now/)
 - [Part I — Getting started with the Sanic web framework: initial setup and https](https://medium.com/@michealjroberts/getting-started-with-the-sanic-web-framework-initial-setup-and-https-730a1eb7c8e3)
 
+## Courses
 
+
+## Books
+
+
+## Slides
+
+
+## Videos
+- [Dougal Matthews - Async Web Apps with Sanic](https://www.youtube.com/watch?v=wb0lk4e9DEg&t=1s) - EuroPython 2017
+- [Chris Hawkes - Python Sanic Tutorial](https://www.youtube.com/watch?v=WiGsWfwh0yY&t=3s)
 ## Built with Sanic
 > Taken from [The wiki](https://github.com/channelcat/sanic/wiki/Projects)
 
