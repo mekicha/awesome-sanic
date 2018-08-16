@@ -49,7 +49,7 @@
 ## Resources
 
 ## Tutorials 
-[Getting started with Sanic](https://www.twilio.com/blog/2016/12/getting-started-with-sanic-the-asynchronous-uvloop-based-web-framework-for-python-3-5.html)
-[Super Fast Voice Broadcast with Asynchronous Python and Sanic](https://www.nexmo.com/blog/2017/10/05/fast-voice-broadcast-python-dr/)
-[Deploying an asynchronous Python microservice with Sanic and Zeit Now](https://simonwillison.net/2017/Oct/14/async-python-sanic-now/)
-[Part I — Getting started with the Sanic web framework: initial setup and https](https://medium.com/@michealjroberts/getting-started-with-the-sanic-web-framework-initial-setup-and-https-730a1eb7c8e3)
+- [Getting started with Sanic](https://www.twilio.com/blog/2016/12/getting-started-with-sanic-the-asynchronous-uvloop-based-web-framework-for-python-3-5.html)
+- [Super Fast Voice Broadcast with Asynchronous Python and Sanic](https://www.nexmo.com/blog/2017/10/05/fast-voice-broadcast-python-dr/)
+- [Deploying an asynchronous Python microservice with Sanic and Zeit Now](https://simonwillison.net/2017/Oct/14/async-python-sanic-now/)
+- [Part I — Getting started with the Sanic web framework: initial setup and https](https://medium.com/@michealjroberts/getting-started-with-the-sanic-web-framework-initial-setup-and-https-730a1eb7c8e3)
