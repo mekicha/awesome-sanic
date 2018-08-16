@@ -1,6 +1,7 @@
 # Awesome Sanic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Sanic resources and extensions
+> Sanic is an Async Python 3.5+ web server that's written to go fast
 
 ## Contents
 - [Extensions](#extensions)
@@ -10,7 +11,7 @@
   - [Books](#books)
   - [Slides](#slides)
   - [Videos](#videos)
-  - [Built with Flask](#built-with-sanic)
+  - [Built with Sanic](#built-with-sanic)
 
 ## Extensions
 > Taken from [Extension wiki](https://github.com/channelcat/sanic/wiki/Extensions)
@@ -53,3 +54,22 @@
 - [Super Fast Voice Broadcast with Asynchronous Python and Sanic](https://www.nexmo.com/blog/2017/10/05/fast-voice-broadcast-python-dr/)
 - [Deploying an asynchronous Python microservice with Sanic and Zeit Now](https://simonwillison.net/2017/Oct/14/async-python-sanic-now/)
 - [Part I — Getting started with the Sanic web framework: initial setup and https](https://medium.com/@michealjroberts/getting-started-with-the-sanic-web-framework-initial-setup-and-https-730a1eb7c8e3)
+
+
+## Built with Sanic
+> Taken from [The wiki](https://github.com/channelcat/sanic/wiki/Projects)
+
+The following is a list of Sanic in production use.
+
+* [chrome-prerender](https://github.com/bosondata/chrome-prerender)
+* [Sanic-MDL-Blog](https://github.com/stopspazzing/Sanic-MDL-Blog)
+* [aioquiz - workshop registration and execution](https://github.com/pdyba/aioquiz)
+* [ethereumd-proxy](https://github.com/DeV1doR/ethereumd-proxy)
+* [json-head](https://json-head.now.sh/): explained in [Deploying an asynchronous Python microservice with Sanic and Zeit Now](https://simonwillison.net/2017/Oct/14/async-python-sanic-now/)
+* [datasette](https://github.com/simonw/datasette) - a tool for providing instant JSON API for your SQLite databases. [More information here](https://simonwillison.net/2017/Nov/13/datasette/).
+* [devmap - Learning mindmaps](https://github.com/sourcepirate/devmap)
+* [NMT - Network Mapper Tool](https://github.com/gbnk0/nmt) - A tool for mapping networks
+* [TuringNetwork](https://github.com/turingnetworkai/turingnetwork) - A NeuralNetwork Visualization tool built on/for PyTorch/ONNX
+* [exchangeratesapi.io](https://github.com/madisvain/exchangeratesapi) - Exchange rates with currency conversion
+* [swagger-py-codegen](https://github.com/guokr/swagger-py-codegen) - a Python web framework generator supports Sanic, Flask, Tornado, Falcon
+* [Simple-image-classifier](https://github.com/gbnk0/simple-image-classifier) - A microservice for image classification, based on tensorflow
