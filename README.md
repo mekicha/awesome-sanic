@@ -1,7 +1,9 @@
 # Awesome Sanic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome Sanic resources and extensions  
+> A curated list of awesome [Sanic](https://sanicframework.org/) resources and extensions  
 > Sanic is an Async Python 3.5+ web server that's written to go fast
+
+[Docs](https://sanic.readthedocs.io/) | [Source](https://github.com/huge-success/sanic) | [Forums](https://community.sanicframework.org/)
 
 
 ## Contents
