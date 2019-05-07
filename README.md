@@ -17,6 +17,7 @@
     - [Session](#session)
     - [ORM](#orm)
     - [Utils](#utils)
+    - [Scaffolding](#scaffolding)
 - [Resources](#resources)
     - [Examples](#examples)
     - [Podcasts](#podcasts)
@@ -71,6 +72,9 @@
 - [Python-Paginate](https://github.com/lixxu/python-paginate): Simple pagination support.
 - [Sanic-Dispatch](https://github.com/ashleysommer/sanic-dispatcher): A dispatcher inspired by `DispatcherMiddleware` in werkzeug. Can act as a Sanic-to-WSGI adapter.
 - [Sanic-EnvConfig](https://github.com/jamesstidard/sanic-envconfig): Pull environment variables into your sanic config.
+
+### Scaffolding
+- [Cookiecutter-Sanic](https://github.com/harshanarayana/cookiecutter-sanic): Get your sanic application up and running in a matter of second in a well defined project structure. Batteries included for deployment, unit testing, automated release management and changelog generation.
 
 
 ## Resources
