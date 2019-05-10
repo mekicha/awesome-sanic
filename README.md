@@ -13,11 +13,11 @@
     - [Development](#development)
     - [Frontend](#frontend)
     - [Monitoring](#monitoring)
+    - [ORM](#orm)    
     - [Requests and Responses](#requests-and-responses)
+    - [Scaffolding](#scaffolding)    
     - [Session](#session)
-    - [ORM](#orm)
     - [Utils](#utils)
-    - [Scaffolding](#scaffolding)
 - [Resources](#resources)
     - [Examples](#examples)
     - [Podcasts](#podcasts)
@@ -55,26 +55,27 @@
 - [Sanic-Sentry](https://github.com/serathius/sanic-sentry): Sentry integration for Sanic.
 - [Sanic-Statsd](https://github.com/saabeilin/sanic-statsd): StatsD (currently only DataDog; WIP) metrics collection for Sanic
 
+### ORM
+- [GINO](https://github.com/fantix/gino): A lightweight asynchronous ORM based on SQLAlchemy core, with asyncpg dialect and Sanic extension.
+- [Sanic-Motor](https://github.com/lixxu/sanic-motor): Simple motor wrapper.
+
 ### Requests and Responses
 - [Python-Sanicargs](https://github.com/trustpilot/python-sanicargs): Parse query args in Sanic using type annotations and a decorator.
 - [Sanic Compress](https://github.com/subyraman/sanic_compress): Allows you to easily gzip Sanic responses. A port of Flask-Compress.
 - [Sanic-Limiter](https://github.com/bohea/sanic-limiter): Rate limiting for sanic.
 - [Sanic-UserAgent](https://github.com/lixxu/sanic-useragent): Add `user_agent` to request
 
+### Scaffolding
+- [Cookiecutter-Sanic](https://github.com/harshanarayana/cookiecutter-sanic): Get your sanic application up and running in a matter of second in a well defined project structure. Batteries included for deployment, unit testing, automated release management and changelog generation.
+
 ### Session
 - [Sanic Sessions](https://github.com/subyraman/sanic_session): Support for sessions. Allows using redis, memcache or an in memory store.
 
-### ORM
-- [GINO](https://github.com/fantix/gino): A lightweight asynchronous ORM based on SQLAlchemy core, with asyncpg dialect and Sanic extension.
-- [Sanic-Motor](https://github.com/lixxu/sanic-motor): Simple motor wrapper.
 
 ### Utils
 - [Python-Paginate](https://github.com/lixxu/python-paginate): Simple pagination support.
 - [Sanic-Dispatch](https://github.com/ashleysommer/sanic-dispatcher): A dispatcher inspired by `DispatcherMiddleware` in werkzeug. Can act as a Sanic-to-WSGI adapter.
 - [Sanic-EnvConfig](https://github.com/jamesstidard/sanic-envconfig): Pull environment variables into your sanic config.
-
-### Scaffolding
-- [Cookiecutter-Sanic](https://github.com/harshanarayana/cookiecutter-sanic): Get your sanic application up and running in a matter of second in a well defined project structure. Batteries included for deployment, unit testing, automated release management and changelog generation.
 
 
 ## Resources
