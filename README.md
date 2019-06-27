@@ -37,6 +37,7 @@
 - [Sanic-JWT](https://github.com/ahopkins/sanic-jwt): Authentication extension for JSON Web Tokens (JWT).
 - [Sanic-OAuth](https://gitlab.com/SirEdvin/sanic-oauth): OAuth Library with many provider and OAuth1/OAuth2 support.
 - [Sanic-Token-Auth](https://github.com/saabeilin/sanic-token-auth): Simple token-based authentication.
+- [Sanic-HTTPAuth](https://github.com/MihaiBalint/Sanic-HTTPAuth): Fork of Flask-HTTPAuth, provides Basic, Digest and Token HTTP authentication for Sanic routes
 
 ### Development
 - [Pytest-Sanic](https://github.com/yunstanford/pytest-sanic): A pytest plugin for Sanic. It helps you to test your code asynchronously.
