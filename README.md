@@ -35,6 +35,7 @@
 
 ### Authentication
 - [Sanic-JWT](https://github.com/ahopkins/sanic-jwt): Authentication extension for JSON Web Tokens (JWT).
+- [Sanic-JWT-Extended](https://github.com/NovemberOscar/Sanic-JWT-Extended): Port of flask-jwt-extended, provides access/refresh token with fresh, easy custom claim insertion, and role-based access control
 - [Sanic-OAuth](https://gitlab.com/SirEdvin/sanic-oauth): OAuth Library with many provider and OAuth1/OAuth2 support.
 - [Sanic-Token-Auth](https://github.com/saabeilin/sanic-token-auth): Simple token-based authentication.
 - [Sanic-HTTPAuth](https://github.com/MihaiBalint/Sanic-HTTPAuth): Fork of Flask-HTTPAuth, provides Basic, Digest and Token HTTP authentication for Sanic routes
