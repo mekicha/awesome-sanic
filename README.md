@@ -71,7 +71,7 @@
 - [Cookiecutter-Sanic](https://github.com/harshanarayana/cookiecutter-sanic): Get your sanic application up and running in a matter of second in a well defined project structure. Batteries included for deployment, unit testing, automated release management and changelog generation.
 
 ### Session
-- [Sanic Sessions](https://github.com/subyraman/sanic_session): Support for sessions. Allows using redis, memcache or an in memory store.
+- [Sanic Sessions](https://github.com/xen/sanic_session): Session support for humans. Works with different backends Redis, Mongodb, memcache or an in memory store.
 
 
 ### Utils
