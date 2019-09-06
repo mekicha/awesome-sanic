@@ -43,7 +43,7 @@
 ### Development
 - [Pytest-Sanic](https://github.com/yunstanford/pytest-sanic): A pytest plugin for Sanic. It helps you to test your code asynchronously.
 - [Sanic-OpenAPI](https://github.com/channelcat/sanic-openapi): OpenAPI support, plus a Swagger UI.
-
+- [Sanic-Devtools](https://github.com/yunstanford/sanic-devtools): Dev tools for Sanic.
 
 ### Frontend
 - [Jinja2-sanic](https://github.com/yunstanford/jinja2-sanic): a jinja2 template renderer for Sanic.
