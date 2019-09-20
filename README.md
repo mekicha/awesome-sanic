@@ -63,7 +63,8 @@
 
 ### Requests and Responses
 - [Python-Sanicargs](https://github.com/trustpilot/python-sanicargs): Parse query args in Sanic using type annotations and a decorator.
-- [Sanic Compress](https://github.com/subyraman/sanic_compress): Allows you to easily gzip Sanic responses. A port of Flask-Compress.
+- [Sanic Brogz](https://github.com/michaelchisari/sanic_brogz): Allows you to easily gzip Sanic responses. A port of Flask-Compress.
+- [Sanic Gzip](https://github.com/koug44/sanic-gzip): Add compression to your Sanic endpoints with a decorator
 - [Sanic-Limiter](https://github.com/bohea/sanic-limiter): Rate limiting for sanic.
 - [Sanic-UserAgent](https://github.com/lixxu/sanic-useragent): Add `user_agent` to request
 
