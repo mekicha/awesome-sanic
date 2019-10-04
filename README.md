@@ -60,6 +60,7 @@
 ### ORM
 - [GINO](https://github.com/fantix/gino): A lightweight asynchronous ORM based on SQLAlchemy core, with asyncpg dialect and Sanic extension.
 - [Sanic-Motor](https://github.com/lixxu/sanic-motor): Simple motor wrapper.
+- [Sanic-mongodb-extension](https://github.com/Relrin/sanic-mongodb-extension): Extension for MongoDB with μMongo ODM support for Sanic framework
 
 ### Requests and Responses
 - [Python-Sanicargs](https://github.com/trustpilot/python-sanicargs): Parse query args in Sanic using type annotations and a decorator.
@@ -67,6 +68,12 @@
 - [Sanic Gzip](https://github.com/koug44/sanic-gzip): Add compression to your Sanic endpoints with a decorator
 - [Sanic-Limiter](https://github.com/bohea/sanic-limiter): Rate limiting for sanic.
 - [Sanic-UserAgent](https://github.com/lixxu/sanic-useragent): Add `user_agent` to request
+
+### Caching
+- [Sanic-redis-extension](https://github.com/Relrin/sanic-redis-extension): Redis (via aioredis) support for Sanic framework 
+
+### Queues
+- [Sanic-amqp-extension](https://github.com/Relrin/sanic-amqp-extension): AMQP support for Sanic framework
 
 ### Scaffolding
 - [Cookiecutter-Sanic](https://github.com/harshanarayana/cookiecutter-sanic): Get your sanic application up and running in a matter of second in a well defined project structure. Batteries included for deployment, unit testing, automated release management and changelog generation.
@@ -87,6 +94,9 @@
 - [SanicCRUD-vue](https://github.com/boylegu/SanicCRUD-vue): A example demo base Sanic with vueJS + webpack
 - [Sanic-Nginx-Docker-Example](https://github.com/itielshwartz/sanic-nginx-docker-example): Simple and easy to use example of Sanic behined nginx using docker-compose.
 - [Websocket PubSub Feed](https://gist.github.com/ahopkins/9816b39aedb2d409ef8d1b85f62e8bec): A starting point for building a websocket-based pubsub feed with Redis
+- [Open Matchmaking Auth/Auth microservice](https://github.com/OpenMatchmaking/microservice-auth): Authentication / Authorization microservice for Open Matchmaking platform
+- [Open Matchmaking Game servers pool microservice](https://github.com/OpenMatchmaking/microservice-game-servers-pool): Microservice for handling game servers pool
+- [Open Matchmaking Player statistics microservice](https://github.com/OpenMatchmaking/microservice-player-statistics): Storage for player statistics
 
 ### Tutorials 
 - [Getting started with Sanic](https://www.twilio.com/blog/2016/12/getting-started-with-sanic-the-asynchronous-uvloop-based-web-framework-for-python-3-5.html)
