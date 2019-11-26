@@ -53,6 +53,7 @@
 
 ### Monitoring
 - [Sanic-Prometheus](https://github.com/dkruchinin/sanic-prometheus): Prometheus metrics for Sanic
+- [Prometheus-Sanic](https://github.com/skar404/prometheus-sanic): Fork: [dkruchinin/sanic-prometheus](https://github.com/dkruchinin/sanic-prometheus)
 - [Sanic-Rollbar](https://github.com/saabeilin/sanic-rollbar): Rollbar (exception reporting) integration for Sanic
 - [Sanic-Sentry](https://github.com/serathius/sanic-sentry): Sentry integration for Sanic.
 - [Sanic-Statsd](https://github.com/saabeilin/sanic-statsd): StatsD (currently only DataDog; WIP) metrics collection for Sanic
