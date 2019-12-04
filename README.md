@@ -69,6 +69,7 @@
 - [Sanic Gzip](https://github.com/koug44/sanic-gzip): Add compression to your Sanic endpoints with a decorator
 - [Sanic-Limiter](https://github.com/bohea/sanic-limiter): Rate limiting for sanic.
 - [Sanic-UserAgent](https://github.com/lixxu/sanic-useragent): Add `user_agent` to request
+- [Sanic-SSLify](https://github.com/dzqdzq/sanic_sslify): Forces SSL on your Sanic app. A port of Flask-SSLify.
 
 ### Caching
 - [Sanic-redis-extension](https://github.com/Relrin/sanic-redis-extension): Redis (via aioredis) support for Sanic framework 
