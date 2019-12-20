@@ -99,6 +99,7 @@
 - [Open Matchmaking Auth/Auth microservice](https://github.com/OpenMatchmaking/microservice-auth): Authentication / Authorization microservice for Open Matchmaking platform
 - [Open Matchmaking Game servers pool microservice](https://github.com/OpenMatchmaking/microservice-game-servers-pool): Microservice for handling game servers pool
 - [Open Matchmaking Player statistics microservice](https://github.com/OpenMatchmaking/microservice-player-statistics): Storage for player statistics
+- [Sanic + Motor](https://github.com/humbss/sanic-motor-example): A starting point for building Sanic application integrated with Motor Mongo DB
 
 ### Tutorials 
 - [Getting started with Sanic](https://www.twilio.com/blog/2016/12/getting-started-with-sanic-the-asynchronous-uvloop-based-web-framework-for-python-3-5.html)
