@@ -88,7 +88,7 @@
 - [Python-Paginate](https://github.com/lixxu/python-paginate): Simple pagination support.
 - [Sanic-Dispatch](https://github.com/ashleysommer/sanic-dispatcher): A dispatcher inspired by `DispatcherMiddleware` in werkzeug. Can act as a Sanic-to-WSGI adapter.
 - [Sanic-EnvConfig](https://github.com/jamesstidard/sanic-envconfig): Pull environment variables into your sanic config.
-
+- [sanic-sse](https://github.com/inn0kenty/sanic_sse): [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events) implementation for Sanic.
 
 ## Resources
 
