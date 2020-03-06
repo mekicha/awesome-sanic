@@ -74,6 +74,9 @@
 ### Caching
 - [Sanic-redis-extension](https://github.com/Relrin/sanic-redis-extension): Redis (via aioredis) support for Sanic framework 
 
+### Tracing
+- [Sanic-OpenTracing](https://github.com/itechub/sanic-opentracing): Distributed tracing with [OpenTracing](https://opentracing.io/).
+
 ### Queues
 - [Sanic-amqp-extension](https://github.com/Relrin/sanic-amqp-extension): AMQP support for Sanic framework
 
