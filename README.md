@@ -50,6 +50,7 @@
 - [Sanic-Babel](https://github.com/lixxu/sanic-babel): Adds i18n/l10n support to Sanic applications with the help of the `Babel` library
 - [Sanic-CORS](https://github.com/ashleysommer/sanic-cors): A port of flask-cors.
 - [Sanic-Jinja2](https://github.com/lixxu/sanic-jinja2): Support for Jinja2 template.
+- [Sanic-Sass](https://github.com/Vepnar/Sanic-Sass): Compile Sass & SCSS to CSS for Sanic.
 
 ### Monitoring
 - [Sanic-Prometheus](https://github.com/dkruchinin/sanic-prometheus): Prometheus metrics for Sanic
