@@ -71,6 +71,7 @@
 - [Sanic-Limiter](https://github.com/bohea/sanic-limiter): Rate limiting for sanic.
 - [Sanic-UserAgent](https://github.com/lixxu/sanic-useragent): Add `user_agent` to request
 - [Sanic-SSLify](https://github.com/dzqdzq/sanic_sslify): Forces SSL on your Sanic app. A port of Flask-SSLify.
+- [TuSanic](https://github.com/avi-av/TuSanic): TuSanic is a [tus.io](https://tus.io) (simple _resumable uploads_) server-side implementation for sanic
 
 ### Caching
 - [Sanic-redis-extension](https://github.com/Relrin/sanic-redis-extension): Redis (via aioredis) support for Sanic framework 
