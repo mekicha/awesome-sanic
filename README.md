@@ -94,6 +94,7 @@
 - [Sanic-Dispatch](https://github.com/ashleysommer/sanic-dispatcher): A dispatcher inspired by `DispatcherMiddleware` in werkzeug. Can act as a Sanic-to-WSGI adapter.
 - [Sanic-EnvConfig](https://github.com/jamesstidard/sanic-envconfig): Pull environment variables into your sanic config.
 - [sanic-sse](https://github.com/inn0kenty/sanic_sse): [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events) implementation for Sanic.
+- [Sanic-CamelCase-Middleware](https://ahmednafies.github.io/sanic_camelcase_middleware/): Middleware for camelizing request and response bodies for sanic. 
 
 ## Resources
 
