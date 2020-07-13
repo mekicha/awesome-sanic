@@ -46,6 +46,7 @@
 - [Sanic-Devtools](https://github.com/yunstanford/sanic-devtools): Dev tools for Sanic.
 
 ### Frontend
+- [sanja](https://github.com/tomaszdrozdz/sanja): This module aims to make bringing Jinja templates to Sanic easy.  
 - [Jinja2-sanic](https://github.com/yunstanford/jinja2-sanic): a jinja2 template renderer for Sanic.
 - [Sanic-Babel](https://github.com/lixxu/sanic-babel): Adds i18n/l10n support to Sanic applications with the help of the `Babel` library
 - [Sanic-CORS](https://github.com/ashleysommer/sanic-cors): A port of flask-cors.
