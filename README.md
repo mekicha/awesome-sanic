@@ -97,6 +97,7 @@
 - [sanic-sse](https://github.com/inn0kenty/sanic_sse): [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events) implementation for Sanic.
 - [Sanic-CamelCase-Middleware](https://ahmednafies.github.io/sanic_camelcase_middleware/): Middleware for camelizing request and response bodies for sanic. 
 - [Sanic-Pydantic](https://ahmednafies.github.io/sanic-pydantic/): A library for parsing and validating http requests for sanic web-framework using pydantic library.
+- [sanic-fire](https://github.com/tim2anna/sanic-fire): An extension for Sanic that adds support for writing external commands to your application.
 
 ## Resources
 
