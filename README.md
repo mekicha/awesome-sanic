@@ -63,6 +63,7 @@
 
 ### ORM
 - [GINO](https://github.com/fantix/gino): A lightweight asynchronous ORM based on SQLAlchemy core, with asyncpg dialect and Sanic extension.
+- [Tortoise ORM](https://github.com/tortoise/tortoise-orm):  an easy-to-use asyncio orm like Django
 - [Sanic-Motor](https://github.com/lixxu/sanic-motor): Simple motor wrapper.
 - [Sanic-mongodb-extension](https://github.com/Relrin/sanic-mongodb-extension): Extension for MongoDB with μMongo ODM support for Sanic framework
 
@@ -98,6 +99,7 @@
 - [sanic-sse](https://github.com/inn0kenty/sanic_sse): [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events) implementation for Sanic.
 - [Sanic-CamelCase-Middleware](https://ahmednafies.github.io/sanic_camelcase_middleware/): Middleware for camelizing request and response bodies for sanic. 
 - [Sanic-Pydantic](https://ahmednafies.github.io/sanic-pydantic/): A library for parsing and validating http requests for sanic web-framework using pydantic library.
+- [sanic-dantic](https://github.com/miss85246/sanic-dantic): a sanic request parameter check plugin based on pydantic. support FBV and CBV
 - [sanic-fire](https://github.com/tim2anna/sanic-fire): An extension for Sanic that adds support for writing external commands to your application.
 
 ## Resources
