@@ -32,6 +32,7 @@
 - [Sanic-GraphQL](https://github.com/graphql-python/sanic-graphql): GraphQL integration with Sanic
 - [Sanic-RestPlus](https://github.com/ashleysommer/sanic-restplus): A port of Flask-RestPlus for Sanic. Full-featured REST API with SwaggerUI generation.
 - [Sanic-Transmute](https://github.com/yunstanford/sanic-transmute): A Sanic extension that generates APIs from python function and classes, and also generates Swagger UI/documentation automatically.
+- [Sanic-OpenAPI3e](https://github.com/endafarrell/sanic-openapi3e): A Sanic extension that allows you to decorate your routes and configure your OpenAPI spec v3.0 and swagger. Very high spec compliance, customisable.
 
 ### Authentication
 - [Sanic-JWT](https://github.com/ahopkins/sanic-jwt): Authentication extension for JSON Web Tokens (JWT).
