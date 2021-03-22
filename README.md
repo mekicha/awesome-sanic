@@ -1,9 +1,9 @@
 # Awesome Sanic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome [Sanic](https://sanicframework.org/) resources and extensions  
-> Sanic is an Async Python 3.5+ web server that's written to go fast
+> Sanic is an Async Python 3.7+ web server that's written to go fast
 
-[Docs](https://sanic.readthedocs.io/) | [Source](https://github.com/huge-success/sanic) | [Forums](https://community.sanicframework.org/)
+[Docs](https://sanic.readthedocs.io/) | [Source](https://github.com/sanic-org/sanic) | [Forums](https://community.sanicframework.org/)
 
 
 ## Contents
@@ -44,7 +44,7 @@
 
 ### Development
 - [Pytest-Sanic](https://github.com/yunstanford/pytest-sanic): A pytest plugin for Sanic. It helps you to test your code asynchronously.
-- [Sanic-OpenAPI](https://github.com/channelcat/sanic-openapi): OpenAPI support, plus a Swagger UI.
+- [Sanic-OpenAPI](https://github.com/sanic-org/sanic-openapi): OpenAPI support, plus a Swagger UI.
 - [Sanic-Devtools](https://github.com/yunstanford/sanic-devtools): Dev tools for Sanic.
 
 ### Frontend
@@ -128,7 +128,7 @@
 - [Adam Hopkins, EuroPython 2020 - Overcoming access control in web APIs](https://www.youtube.com/watch?v=Uqgoj43ky6A)
 
 ### Built with Sanic
-> Taken from [The wiki](https://github.com/channelcat/sanic/wiki/Projects)
+> Taken from [The wiki](https://github.com/sanic-org/sanic/wiki/Projects)
 
 The following is a list of Sanic in production use.
 
