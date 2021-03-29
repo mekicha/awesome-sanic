@@ -40,6 +40,7 @@
 - [Sanic-OAuth](https://gitlab.com/SirEdvin/sanic-oauth): OAuth Library with many provider and OAuth1/OAuth2 support.
 - [Sanic-Token-Auth](https://github.com/saabeilin/sanic-token-auth): Simple token-based authentication.
 - [Sanic-HTTPAuth](https://github.com/MihaiBalint/Sanic-HTTPAuth): Fork of Flask-HTTPAuth, provides Basic, Digest and Token HTTP authentication for Sanic routes
+- [asycauth](https://github.com/sunset-developer/asyncauth): A powerful, featureful, and simple authentication and authorization library for Sanic. 
 - [SanicApiKey](https://github.com/Quiec/sanicapikey): Simple api key based authentication.
 
 ### Development
