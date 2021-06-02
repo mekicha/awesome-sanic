@@ -127,6 +127,7 @@
 - [Chris Hawkes - Python Sanic Tutorial](https://www.youtube.com/watch?v=WiGsWfwh0yY&t=3s)
 - [Adam Hopkins, TalkPython - Episode #188: Async for the Pythonic web with Sanic](https://talkpython.fm/episodes/show/188/async-for-the-pythonic-web-with-sanic)
 - [Adam Hopkins, EuroPython 2020 - Overcoming access control in web APIs](https://www.youtube.com/watch?v=Uqgoj43ky6A)
+- [Adam Hopkins, PyConIL 2021 - Liberate your API: Building a task manager inside Sanic](https://www.youtube.com/watch?v=hGAwyg8_W3M)
 
 ### Built with Sanic
 > Taken from [The wiki](https://github.com/sanic-org/sanic/wiki/Projects)
