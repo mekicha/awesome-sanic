@@ -40,7 +40,7 @@
 - [Sanic-OAuth](https://gitlab.com/SirEdvin/sanic-oauth): OAuth Library with many provider and OAuth1/OAuth2 support.
 - [Sanic-Token-Auth](https://github.com/saabeilin/sanic-token-auth): Simple token-based authentication.
 - [Sanic-HTTPAuth](https://github.com/MihaiBalint/Sanic-HTTPAuth): Fork of Flask-HTTPAuth, provides Basic, Digest and Token HTTP authentication for Sanic routes
-- [asyncauth](https://github.com/sunset-developer/asyncauth): A powerful, featureful, and simple authentication and authorization library for Sanic. 
+- [sanic-security](https://github.com/sunset-developer/sanic-security): A powerful, simple, and async security library for Sanic. 
 - [SanicApiKey](https://github.com/Quiec/sanicapikey): Simple api key based authentication.
 
 ### Development
@@ -70,6 +70,7 @@
 - [Sanic-mongodb-extension](https://github.com/Relrin/sanic-mongodb-extension): Extension for MongoDB with μMongo ODM support for Sanic framework
 
 ### Requests and Responses
+- [Webargs-Sanic](https://github.com/EndurantDevs/webargs-sanic): Sanic integration with [Webargs](https://github.com/marshmallow-code/webargs). Parsing and validating request arguments: headers, arguments, cookies, files, json, etc.
 - [Python-Sanicargs](https://github.com/trustpilot/python-sanicargs): Parse query args in Sanic using type annotations and a decorator.
 - [Sanic Brogz](https://github.com/michaelchisari/sanic_brogz): Allows you to easily gzip Sanic responses. A port of Flask-Compress.
 - [Sanic Gzip](https://github.com/koug44/sanic-gzip): Add compression to your Sanic endpoints with a decorator
