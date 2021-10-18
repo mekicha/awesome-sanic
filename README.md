@@ -70,7 +70,7 @@
 - [Sanic-mongodb-extension](https://github.com/Relrin/sanic-mongodb-extension): Extension for MongoDB with μMongo ODM support for Sanic framework
 
 ### Requests and Responses
-- [Webargs-Sanic](https://github.com/EndurantDevs/webargs-sanic): Sanic integration with [Webargs](https://github.com/marshmallow-code/webargs). Parsing and validating request arguments: headers, arguments, cookies, files, json, etc.
+- [Webargs-Sanic](https://github.com/EndurantDevs/webargs-sanic): Sanic integration with [Webargs](https://github.com/marshmallow-code/webargs). Parse & validate request arguments: headers, arguments, cookies, files, json, etc.
 - [Python-Sanicargs](https://github.com/trustpilot/python-sanicargs): Parse query args in Sanic using type annotations and a decorator.
 - [Sanic Brogz](https://github.com/michaelchisari/sanic_brogz): Allows you to easily gzip Sanic responses. A port of Flask-Compress.
 - [Sanic Gzip](https://github.com/koug44/sanic-gzip): Add compression to your Sanic endpoints with a decorator
