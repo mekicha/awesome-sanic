@@ -100,8 +100,8 @@
 - [Sanic-Dispatch](https://github.com/ashleysommer/sanic-dispatcher): A dispatcher inspired by `DispatcherMiddleware` in werkzeug. Can act as a Sanic-to-WSGI adapter.
 - [Sanic-EnvConfig](https://github.com/jamesstidard/sanic-envconfig): Pull environment variables into your sanic config.
 - [sanic-sse](https://github.com/inn0kenty/sanic_sse): [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events) implementation for Sanic.
-- [Sanic-CamelCase-Middleware](https://ahmednafies.github.io/sanic_camelcase_middleware/): Middleware for camelizing request and response bodies for sanic. 
-- [Sanic-Pydantic](https://ahmednafies.github.io/sanic-pydantic/): A library for parsing and validating http requests for sanic web-framework using pydantic library.
+- [Sanic-CamelCase-Middleware](https://nf1s.github.io/sanic-camelcase-middleware/): Middleware for camelizing request and response bodies for sanic. 
+- [Sanic-Pydantic](https://nf1s.github.io/sanic-pydantic/): A library for parsing and validating http requests for sanic web-framework using pydantic library.
 - [sanic-dantic](https://github.com/miss85246/sanic-dantic): a sanic request parameter check plugin based on pydantic. support FBV and CBV
 - [sanic-fire](https://github.com/tim2anna/sanic-fire): An extension for Sanic that adds support for writing external commands to your application.
 
