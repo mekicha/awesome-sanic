@@ -43,6 +43,9 @@
 - [sanic-security](https://github.com/sunset-developer/sanic-security): A powerful, simple, and async security library for Sanic. 
 - [SanicApiKey](https://github.com/Quiec/sanicapikey): Simple api key based authentication.
 
+- [Sanic-Auth](https://github.com/pyx/sanic-auth): A tiny extension provide a decorator @auth.login_required, without Authentication algorithm & Session manage (sanic-session can work togather).
+
+
 ### Development
 - [Pytest-Sanic](https://github.com/yunstanford/pytest-sanic): A pytest plugin for Sanic. It helps you to test your code asynchronously.
 - [Sanic-OpenAPI](https://github.com/sanic-org/sanic-openapi): OpenAPI support, plus a Swagger UI.
