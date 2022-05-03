@@ -7,20 +7,25 @@
 
 
 ## Contents
-- [Extensions](#extensions)
+- [Awesome Sanic ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-sanic-)
+  - [Contents](#contents)
+  - [Extensions](#extensions)
     - [API](#api)
     - [Authentication](#authentication)
     - [Development](#development)
     - [Frontend](#frontend)
     - [Monitoring](#monitoring)
-    - [ORM](#orm)    
+    - [ORM](#orm)
     - [Requests and Responses](#requests-and-responses)
-    - [Scaffolding](#scaffolding)    
+    - [Caching](#caching)
+    - [Tracing](#tracing)
+    - [Queues](#queues)
+    - [Scaffolding](#scaffolding)
     - [Session](#session)
     - [Utils](#utils)
-- [Resources](#resources)
+  - [Resources](#resources)
     - [Examples](#examples)
-    - [Podcasts](#podcasts)
+    - [Tutorials](#tutorials)
     - [Videos and Podcasts](#videos-and-podcasts)
     - [Built with Sanic](#built-with-sanic)
 
@@ -33,6 +38,7 @@
 - [Sanic-RestPlus](https://github.com/ashleysommer/sanic-restplus): A port of Flask-RestPlus for Sanic. Full-featured REST API with SwaggerUI generation.
 - [Sanic-Transmute](https://github.com/yunstanford/sanic-transmute): A Sanic extension that generates APIs from python function and classes, and also generates Swagger UI/documentation automatically.
 - [Sanic-OpenAPI3e](https://github.com/endafarrell/sanic-openapi3e): A Sanic extension that allows you to decorate your routes and configure your OpenAPI spec v3.0 and swagger. Very high spec compliance, customisable.
+- [Sanic-REST-Framework](https://github.com/Tioit-Wang/sanic-rest-framework): API rapid development framework for SANIC, Inspired by Django REST Framework, Has complete authority verification, authentication, serializer components, CBV suite, Depends on the tortoise ORM, Used together with srf_app_helper and tortoise-orm, You can get a smooth development experience like Django
 
 ### Authentication
 - [Sanic-JWT](https://github.com/ahopkins/sanic-jwt): Authentication extension for JSON Web Tokens (JWT).
