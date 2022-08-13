@@ -3,13 +3,14 @@
 > A curated list of awesome [Sanic](https://sanicframework.org/) resources and extensions  
 > Sanic is an Async Python 3.7+ web server that's written to go fast
 
-[Docs](https://sanic.readthedocs.io/) | [Source](https://github.com/sanic-org/sanic) | [Forums](https://community.sanicframework.org/)
+[User Guide](https://sanic.dev/) | [API Docs](https://sanic.readthedocs.io/) | [Source](https://github.com/sanic-org/sanic) | [Forums](https://community.sanicframework.org/) | [Discord](https://discord.gg/FARQzAEMAA)
 
 
 ## Contents
 - [Awesome Sanic ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-sanic-)
   - [Contents](#contents)
   - [Extensions](#extensions)
+    - [Official](#official)
     - [API](#api)
     - [Authentication](#authentication)
     - [Development](#development)
@@ -26,11 +27,18 @@
   - [Resources](#resources)
     - [Examples](#examples)
     - [Tutorials](#tutorials)
+    - [Books](#books)
     - [Videos and Podcasts](#videos-and-podcasts)
     - [Built with Sanic](#built-with-sanic)
 
 
 ## Extensions
+
+### Official
+- [Sanic Extensions](https://github.com/sanic-org/sanic-ext): Extended Sanic functionality
+- [Sanic Testing](https://github.com/sanic-org/sanic-testing): Test clients
+- [Sanic Docker](https://hub.docker.com/r/sanicframework/sanic): Docker images
+- [Sanic Assets](https://github.com/sanic-org/sanic-assets): Official logo
 
 ### API
 - [Sanic CRUD](https://github.com/Typhon66/sanic_crud): CRUD REST API generation with peewee models.
@@ -48,7 +56,6 @@
 - [Sanic-HTTPAuth](https://github.com/MihaiBalint/Sanic-HTTPAuth): Fork of Flask-HTTPAuth, provides Basic, Digest and Token HTTP authentication for Sanic routes
 - [sanic-security](https://github.com/sunset-developer/sanic-security): A powerful, simple, and async security library for Sanic. 
 - [SanicApiKey](https://github.com/Quiec/sanicapikey): Simple api key based authentication.
-
 - [Sanic-Auth](https://github.com/pyx/sanic-auth): A tiny extension provide a decorator @auth.login_required, without Authentication algorithm & Session manage (sanic-session can work togather).
 
 
@@ -77,6 +84,7 @@
 - [Tortoise ORM](https://github.com/tortoise/tortoise-orm):  an easy-to-use asyncio orm like Django
 - [Sanic-Motor](https://github.com/lixxu/sanic-motor): Simple motor wrapper.
 - [Sanic-mongodb-extension](https://github.com/Relrin/sanic-mongodb-extension): Extension for MongoDB with μMongo ODM support for Sanic framework
+- [Mayim](https://ahopkins.github.io/mayim/):  The *NOT* ORM Python hydrator
 
 ### Requests and Responses
 - [Webargs-Sanic](https://github.com/EndurantDevs/webargs-sanic): Sanic integration with [Webargs](https://github.com/marshmallow-code/webargs). Parse & validate request arguments: headers, arguments, cookies, files, json, etc.
@@ -132,6 +140,9 @@
 - [Part I — Getting started with the Sanic web framework: initial setup and https](https://medium.com/@michealjroberts/getting-started-with-the-sanic-web-framework-initial-setup-and-https-730a1eb7c8e3)
 - [How to make your code fast and asynchronous with Python and Sanic](https://medium.com/free-code-camp/goin-fast-and-asynchronous-with-python-and-sanic-387d722f3668)
 
+### Books
+- [Python Web Development with Sanic](https://sanicbook.com/): An in-depth guide for Python web developers to improve the speed and scalability of web applications, by Adam Hopkins
+
 ### Videos and Podcasts
 - [Dougal Matthews - Async Web Apps with Sanic](https://www.youtube.com/watch?v=wb0lk4e9DEg&t=1s) - EuroPython 2017
 - [Chris Hawkes - Python Sanic Tutorial](https://www.youtube.com/watch?v=WiGsWfwh0yY&t=3s)
@@ -140,7 +151,6 @@
 - [Adam Hopkins, PyConIL 2021 - Liberate your API: Building a task manager inside Sanic](https://www.youtube.com/watch?v=hGAwyg8_W3M)
 
 ### Built with Sanic
-> Taken from [The wiki](https://github.com/sanic-org/sanic/wiki/Projects)
 
 The following is a list of Sanic in production use.
 
