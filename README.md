@@ -57,6 +57,7 @@
 - [sanic-security](https://github.com/sunset-developer/sanic-security): A powerful, simple, and async security library for Sanic. 
 - [SanicApiKey](https://github.com/Quiec/sanicapikey): Simple api key based authentication.
 - [Sanic-Auth](https://github.com/pyx/sanic-auth): A tiny extension provide a decorator @auth.login_required, without Authentication algorithm & Session manage (sanic-session can work togather).
+- [Sanic-Beskar](https://github.com/pahrohfit/sanic-beskar): Strong, Simple, and Precise security for Sanic APIs.
 
 
 ### Development
