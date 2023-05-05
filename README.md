@@ -150,6 +150,7 @@
 - [Adam Hopkins, TalkPython - Episode #188: Async for the Pythonic web with Sanic](https://talkpython.fm/episodes/show/188/async-for-the-pythonic-web-with-sanic)
 - [Adam Hopkins, EuroPython 2020 - Overcoming access control in web APIs](https://www.youtube.com/watch?v=Uqgoj43ky6A)
 - [Adam Hopkins, PyConIL 2021 - Liberate your API: Building a task manager inside Sanic](https://www.youtube.com/watch?v=hGAwyg8_W3M)
+- [DevGuyAhnaf, Full Featured Discord.py Bot Dashboard - Part 1: Making the Bot](https://www.youtube.com/watch?v=56Zw8-eaNq8) - 4 Parts on YouTube
 
 ### Built with Sanic
 
