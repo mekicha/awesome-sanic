@@ -122,6 +122,7 @@
 - [Sanic-Pydantic](https://nf1s.github.io/sanic-pydantic/): A library for parsing and validating http requests for sanic web-framework using pydantic library.
 - [sanic-dantic](https://github.com/miss85246/sanic-dantic): a sanic request parameter check plugin based on pydantic. support FBV and CBV
 - [sanic-fire](https://github.com/tim2anna/sanic-fire): An extension for Sanic that adds support for writing external commands to your application.
+- [pait](https://github.com/so1n/pait): Python Modern API Tools, easier to use web frameworks/route; provide a safe and efficient route func coding ; Automatic verification and type conversion of request parameters; Automatically generate openapi files and support UI components such as `Swagger`,`Redoc`,`RapiDoc` and `Elements` 
 
 ## Resources
 
